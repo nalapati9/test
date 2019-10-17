@@ -4,5 +4,10 @@ public class Demo{
 		System.out.println("welcome java");
 		System.out.println("welcome java");
 		System.out.println("welcome java");
+				System.out.println("welcome java");
+
+						System.out.println("welcome java");
+		System.out.println("welcome java");
+
 	}
 }
